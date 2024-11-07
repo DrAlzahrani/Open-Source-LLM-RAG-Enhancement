@@ -9,7 +9,7 @@ Follow these steps to clone the repository, build the Docker image, and run the 
 Clone the GitHub repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team4.git
+git clone https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement.git
 ```
 
 ### Step 2: Navigate to the Repository
@@ -17,7 +17,7 @@ git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team4.gi
 Change directory to the cloned repository:
 
 ```bash
-cd csusb_fall2024_cse6550_team4
+cd Open-Source-LLM-RAG-Enhancement
 ```
 ### Step 3: Get the latest version of our app by pulling the changes
 
@@ -29,7 +29,7 @@ git pull origin main
 Build the Docker image using the following command:
 
 ```bash
-docker build -t team4-app .
+docker build -t mistral-token-test .
 ```
 
 ### Step 5: Run the Docker Container
@@ -37,7 +37,7 @@ docker build -t team4-app .
 Run the Docker container with the following command:
 
 ```bash
-docker run -p 5004:5004 -p 6004:6004 team4-app
+docker run --rm mistral-token-test
 ```
 
 ---
