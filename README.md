@@ -1,7 +1,6 @@
-# Steps to Run the Mistral 7B Token Validation and Model Testing
+# Enhancing Large Language Models (LLMs) Using Retrieval-Augmented Generation (RAG) Lab
 
-Follow these steps to clone the repository, build the Docker image, and run the container:
-
+Follow these steps to set up your environment, adjust permissions, and execute the Jupyter Notebook:
 ---
 
 ### Step 1: Clone the Repository
@@ -24,20 +23,33 @@ cd Open-Source-LLM-RAG-Enhancement
 ```bash
 git pull origin main
 ```
-### Step 4: Build the Docker Image
+### Step 4: Modify Script Permissions
 
-Build the Docker image using the following command:
-
-```bash
-docker build -t mistral-token-test .
-```
-
-### Step 5: Run the Docker Container
-
-Run the Docker container with the following command:
+Grant execute permissions to the setup script:
 
 ```bash
-docker run --rm mistral-token-test
+chmod u+x docker_image_setup.sh
 ```
+
+### Step 5: Run and Build the Docker Container
+
+Build and run the Docker image using the provided setup script: 
+
+```bash
+./docker_image_setup.sh
+```
+
+### Step 6: Access Jupyter Notebook
+
+After running the container, the terminal will display a URL with a token.
+
+Copy this URL and paste it into your web browser to access the Jupyter Notebook interface.
+
+### Step 7: Execute the Notebook
+
+- In the Jupyter interface:
+  - Navigate to `Short_lab.ipynb`.
+  - Open the notebook.
+  - Run all cells to execute the code.
 
 ---
