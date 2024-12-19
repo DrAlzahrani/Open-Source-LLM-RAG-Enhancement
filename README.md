@@ -1,6 +1,19 @@
 # Enhancing Large Language Models (LLMs) Using Retrieval-Augmented Generation (RAG) Lab
 
-Follow these steps to set up your environment, adjust permissions, and execute the Jupyter Notebook:
+## Prerequisites
+Before starting, ensure you have the following installed and ready:
+1. **Docker**: Download and install Docker from [Docker's official website](https://www.docker.com/).
+2. **Groq API Key**: Obtain a Groq API key by logging into the [Groq Console](https://console.groq.com/keys) and generating a new key.
+
+---
+
+## Lab Setup Instructions
+
+### Step 1: Clone the Repository
+Clone the GitHub repository to your local machine using the following command:
+```bash
+git clone https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement.git
+
 ---
 
 ### Step 1: Clone the Repository
