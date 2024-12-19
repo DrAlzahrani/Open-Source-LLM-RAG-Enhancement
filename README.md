@@ -45,7 +45,7 @@ Build and run the Docker image using the provided setup script:
 
 ### Step 6: Access Jupyter Notebook
 
-After starting the container, the terminal will display a URL (starting with http://127.0.0.1:) that includes a token.
+After starting the container, the terminal will display a URL (starting with http://127.0.0.1) that includes a token.
 
 Copy this URL and paste it into your web browser to access the Jupyter Notebook interface.
 
