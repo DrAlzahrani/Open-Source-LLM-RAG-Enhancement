@@ -51,13 +51,3 @@ Run the setup script to build and start the Docker container:
 1. In Jupyter, navigate to `Short_lab.ipynb`.  
 2. Open the notebook.  
 3. Select **Run All Cells** to execute the code.  
-
----
-
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
-## Contributions
-Contributions are welcome! Feel free to submit issues or pull requests for enhancements.
