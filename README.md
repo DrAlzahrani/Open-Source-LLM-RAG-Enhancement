@@ -1,4 +1,4 @@
-# Enhancing Large Language Models (LLMs) Using Retrieval-Augmented Generation (RAG) Lab
+# Enhancing Large Language Models (LLMs) Using Retrieval-Augmented Generation (RAG)
 
 ## Prerequisites
 Before starting, ensure you have the following installed and ready:
