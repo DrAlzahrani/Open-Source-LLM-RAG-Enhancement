@@ -38,6 +38,8 @@ chmod u+x docker_image_setup.sh
 ```
 
 ### Step 5: Build and Run the Docker Container
+> **⚠️ Warning**: Ensure port `8888` is free. The script will automatically clean up this port if it's in use by stopping and removing any Docker container using it.
+
 Run the setup script to build and start the Docker container:  
 ```bash
 ./docker_image_setup.sh
