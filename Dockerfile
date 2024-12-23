@@ -35,6 +35,7 @@ RUN pip install --upgrade pip && \
 # Copy the Jupyter notebooks into the container
 COPY Long_lab.ipynb /app/
 COPY Short_lab.ipynb /app/
+COPY chatbot-flowchart.png /app/
 
 # Expose Jupyter Notebook port
 EXPOSE 8888
