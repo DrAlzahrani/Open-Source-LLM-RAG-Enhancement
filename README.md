@@ -50,6 +50,6 @@ Run the setup script to build and start the Docker container:
 - Copy and paste this URL into your browser to access the Jupyter Notebook interface.  
 
 ### Step 7: Run the Notebook
-1. In Jupyter, navigate to `Short_lab.ipynb`.  
+1. In Jupyter, navigate to `Short_lab.ipynb` (for advanced users) or `Long_lab.ipynb` (for beginner users).
 2. Open the notebook.  
 3. Select **Run All Cells** to execute the code.  
