@@ -1,6 +1,13 @@
 
 # Enhancing Large Language Models (LLMs) Using Retrieval-Augmented Generation (RAG)
 
+---
+
+**💡 Note:**  
+If you are new to AI, LLM, or RAG, check out the [**Beginner Guide**](https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement/wiki/Tutorial) before you start!  
+
+---
+
 ## Prerequisites
 Before you begin, ensure you have the following:
 
