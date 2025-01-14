@@ -55,5 +55,5 @@ Run the setup script to build and start the Docker container:
 3. Select **Run All Cells** to execute the code.  
 
 
-**💡 Note:**  
+##**💡 Note:**  
 If you are new to AI, LLM, or RAG, check out our [**Beginner Guide**]([https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement/wiki/Tutorial](https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement/wiki) before you start!  
