@@ -56,5 +56,5 @@ Run the setup script to build and start the Docker container:
 
 ---
 
-##💡 Note:  
+**💡 Note:**  
 If you are new to AI, LLM, or RAG, check out the [**Beginner Guide**]([https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement/wiki/Tutorial](https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement/wiki) before you start!  
