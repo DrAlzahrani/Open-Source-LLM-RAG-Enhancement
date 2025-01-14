@@ -19,8 +19,6 @@ Before you begin, ensure you have the following:
 
 ---
 
-## Lab Setup Instructions (see the [Wiki pages](https://github.com/DrAlzahrani/Open-Source-LLM-RAG-Enhancement/wiki) for more details)
-
 ### Step 1: Clone the Repository
 Clone the GitHub repository to your local machine:  
 ```bash
