@@ -11,10 +11,11 @@ If you are new to AI, LLM, or RAG, check out the [**Beginner Guide**](https://gi
 ## Prerequisites
 Before you begin, ensure you have the following:
 
-1. **Docker**: [Install Docker](https://www.docker.com) from its official website.  
-2. **Groq API Key**: [Log in to the Groq Console](https://console.groq.com) to generate a new API key.  
-3. **Linux/MacOS**: No extra setup needed.  
-4. **Windows**: Install [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) and enable Docker's WSL integration by following [this guide](https://docs.docker.com/desktop/windows/wsl/).  
+1. **Git**: [Install Git](https://git-scm.com/) from its official website.  
+2. **Docker**: [Install Docker](https://www.docker.com) from its official website.  
+3. **Groq API Key**: [Log in to the Groq Console](https://console.groq.com) to generate a new API key.  
+4. **Linux/MacOS**: No extra setup needed.  
+5. **Windows**: Install [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) and enable Docker's WSL integration by following [this guide](https://docs.docker.com/desktop/windows/wsl/).  
 
 ---
 
